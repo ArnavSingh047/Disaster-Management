@@ -42,8 +42,6 @@ Once the model is trained and tested, it is integrated into a Flask API to serve
 
 ---
 
-## Installation & Setup
-### 1️⃣ Clone th
 
 ## Screenshots
 ### 🌍 Home Page
