@@ -43,27 +43,7 @@ Once the model is trained and tested, it is integrated into a Flask API to serve
 ---
 
 ## Installation & Setup
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Abhishek142004/Disaster-Prediction-ML-Project.git
-cd Disaster-Prediction-ML-Project
-```
-
-### 2️⃣ Backend Setup (Flask)
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
-
-### 3️⃣ Frontend Setup (React.js)
-```bash
-cd frontend
-npm install
-npm start
-```
-
----
+### 1️⃣ Clone th
 
 ## Screenshots
 ### 🌍 Home Page
